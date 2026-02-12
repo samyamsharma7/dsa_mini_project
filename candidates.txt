@@ -1,0 +1,4 @@
+100 CandidateA 0
+101 CandidateB 0
+102 CandidateC 0
+103 CandidateD 0
